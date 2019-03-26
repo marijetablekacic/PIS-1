@@ -7,6 +7,10 @@ namespace ConsoleApp2
 {
     class Class1
     {
-        int zbroji();
+<<<<<<< HEAD
+        
+=======
+        void sgita();
+>>>>>>> 5f4b381cb4b701b0441c7034c2827c177e242fa3
     }
 }
